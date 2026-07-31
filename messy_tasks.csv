@@ -1,0 +1,21 @@
+task_id,task_name,assignee,status,priority,due_date,created_date
+1,Design homepage mockup,Alice,Done,High,2024-03-15,2024-03-01
+2,Set up CI pipeline, Bob ,in progress,Medium,03/20/2024,2024-03-02
+3,Write API docs,alice,TODO,Low,2024-03-25,2024-03-03
+4,Design homepage mockup,Alice,Done,High,2024-03-15,2024-03-01
+5,Fix login bug,Charlie,DONE,High,March 18 2024,2024-03-04
+6,Update dependencies,,in progress,Medium,2024-03-22,2024-03-05
+7,Write API docs, alice,todo,low,2024-03-25,2024-03-03
+8,Refactor auth module,Bob,In Progress,High,,2024-03-06
+9,Add unit tests,Charlie,to do,Medium,04/01/2024,2024-03-07
+10,Design homepage mockup,Alice,Done,High,2024-03-15,2024-03-01
+11,Migrate database,Dana,Done,high,03/28/2024,2024-03-08
+12,Review pull requests, Bob,in Progress,Medium,2024-03-19,2024-03-09
+13,Update onboarding guide,,To Do,Low,April 5 2024,2024-03-10
+14,Fix login bug,Charlie,Done,High,March 18 2024,2024-03-04
+15,Optimize image loading,Dana,done,Medium,03/30/2024,2024-03-11
+16,Set up monitoring alerts,Alice,IN PROGRESS,High,2024-04-02,2024-03-12
+17,Write API docs,Alice,Todo,low,2024-03-25,2024-03-03
+18,Clean up test suite,Bob,to do,Medium,04/10/2024,2024-03-13
+19,Design homepage mockup,alice,done,High,2024-03-15,2024-03-01
+20,Archive old tickets,Charlie,Done,Low,03/31/2024,2024-03-14
